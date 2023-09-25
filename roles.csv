@@ -1,0 +1,3 @@
+1,user                                              ,He has perform operation                                                                            ,3,2023-09-25 16:12:55.67698,2023-09-25 16:16:30.158313
+2,admin                                             ,He has autority to handle operation of user                                                         ,2,2023-09-25 16:12:55.67698,2023-09-25 16:16:30.158313
+3,superadmin                                        ,He has autority to handle operation of user and admin                                               ,1,2023-09-25 16:12:55.67698,2023-09-25 16:16:30.158313
